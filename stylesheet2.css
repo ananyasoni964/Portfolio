@@ -1,0 +1,22 @@
+body{background-color: rgb(185, 181, 170);}
+p{color:rgb(255, 255, 255);
+font-size: 18px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+div{height:50%; width: 95%; float:left; margin: 20px;
+}
+img{height:450; width:500px; margin:20px; float: right;
+}
+.Main-section{width: 100%; height: 30%; float: left;
+background-image: linear-gradient(to bottom right, rgba(171, 172, 135, 0), rgba(217, 256,232, 0)); border-radius: 40px; float: center; margin: 20px;
+}
+a{height:35px; width:65px; float:left; margin:40px; border:5px solid oldlace; text-shadow: pink; text-decoration: none;
+}
+div{float: left; display: flex;
+}
+.footers{background-color: lavenderblush; width: 100%; height: 40%;
+}
+details{width: 90%; height: auto; margin: 5px; text-align: center;
+}
+details> summary{padding: 5px; width: 80%; height: auto; margin: 5px; float: left; text-align: center;
+}
